@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-size: 40px; color: blue;">🚀 Welcome to My GitHub!</h1>
 <div style="text-align: center;">
-    <img src="girll.gif" />
+    <img src="https://raw.githubusercontent.com/AnvitaAnanya/README.md/main/" width="300" height="300" />
 </div>
 
 
