@@ -1,7 +1,14 @@
-<h1 style="text-align: center; font-size: 40px; color: blue;">🚀 Welcome to My GitHub!</h1>
-<div style="text-align: center;">
-    <img src="girll.gif" width="300" height="300" />
-</div>
+
+
+
+<H1 align="center">
+  👩‍💻 Welcome to My GitHub Page 👩‍💻
+</H1>
+<p align="center">
+  <img src="girll.gif" alt="Coding Girl" width="300"/>
+</p>
+
+
 
 
 
