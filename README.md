@@ -1,19 +1,10 @@
-
-
-
-<H3 align="center">
-  👩‍💻 Welcome to My GitHub Page 👩‍💻
+<H3 align="center"> 
+👩‍💻 Welcome to My GitHub Page 👩‍💻
 </H3>
 <p align="center">
   <img src="girll.gif" alt="Coding Girl" width="300"/>
 </p>
-
-
-
-
-
-
-# <h2>💫About Me:</h2>
+ <h2>💫About Me:</h2>
 🔭 I’m currently learning and building full-stack web applications, experimenting with new frameworks, and exploring ways to integrate security best practices in the development process.<br>🤝 I’m looking to collaborate on Projects related to full-stack development, web security, or anything that pushes the boundaries of secure, scalable web applications.<br>🌱 I’m currently learning React.js and Node.js, and diving deeper into cybersecurity topics such as Incident Response and Cloud Security.<br>
 
 
