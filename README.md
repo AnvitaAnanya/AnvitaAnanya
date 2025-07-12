@@ -37,7 +37,8 @@ const anvita = {
 
 ### 🎯 **Techstack**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,figma,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,dart,python,java,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,postman,figma" />
+
 
 ---
 
@@ -67,7 +68,6 @@ const anvita = {
 ![](https://github-profile-trophy.vercel.app/?username=AnvitaAnanya&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 
-<div align="center">
 
 ### 💬 **Let's Connect**
 
@@ -81,7 +81,7 @@ const anvita = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+
 
 
 
